@@ -7,3 +7,5 @@ Rust made POC for generating ASTs for C code (can be easily modified for other l
 ---
 
 - I added a code cleanup and recursive directory searcher for files as utilities.
+
+![](https://i.imgur.com/fEJ0HJC.png)
